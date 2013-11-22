@@ -1,0 +1,17 @@
+# Laravel Config Files
+/app/config/database.php
+/app/config/ldap.php
+ 
+# Composer Generated Files
+composer.phar
+composer.lock
+/bootstrap/compiled.php
+/vendor
+ 
+# Local Specific File
+/public/.htaccess
+ 
+# System Generated Files
+.DS_Store
+ 
+# Application Config Files
